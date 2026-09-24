@@ -1,10 +1,10 @@
 # Hey, I'm Joao 👋
 
-Networking student at **St. Clair College**, peer tutor, and builder of **TutorTrack**. Into IT support, cybersecurity, and figuring out why things broke.
+Networking/Cybersecurity student at **St. Clair College**, peer tutor. Into IT support, networking , cybersecurity, and figuring out why things broke.
 
 ### 🧰 Skills
 Networking · Cisco · Linux · Windows · SIEM/SOAR  
-Java · JavaScript · Python · HTML/CSS
+Java · JavaScript · Python · HTML/CSS · React · TypeScript ·
 
 ### 🛡️ Cybersecurity internship
 **ISH Tecnologia · Brazil**  
@@ -14,7 +14,7 @@ Supported SOC operations: SIEM/SOAR setup and maintenance, Linux/Windows trouble
 I help students at St. Clair with Linux, networking, Java, JavaScript, mathematics, and web design.
 
 ### 🛠️ TutorTrack
-My app for organizing tutoring sessions, students, and pay periods, with data stored locally.
+TutorTrack is a personal project I made. Local-first tutoring management PWA built with React, TypeScript, Vite, Tailwind CSS, Electron, and IndexedDB. It manages students, tutoring sessions, work hours, payroll periods, and Google Calendar synchronization without relying on a backend or external database.
 
 **Stack:** React · TypeScript · Vite · Tailwind CSS · Dexie/IndexedDB · Zod · Vitest · Playwright
 
